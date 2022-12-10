@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "command_name": "seatbelt",
     "original_author": "@GhostPack (HarmJ0y)",
-    "repo_url": "https://github.com/sliverarmory/Seatbelt",
+    "repo_url": "https://github.com/NightlyEscaper/Seatbelt",
     "help": "Seatbelt is a C# project that performs a number of security oriented host-survey 'safety checks'",
 
     "entrypoint": "Main",
